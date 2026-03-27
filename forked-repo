@@ -1,0 +1,15 @@
+# Fork Verification
+
+## Command Used
+
+curl https://api.github.com/repos/bhaveshhhhhhhhh/mcino-Introduction-to-Git-and-GitHub
+
+## Output
+
+{
+"full_name": "bhaveshhhhhhhhh/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
+"parent": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
+}
